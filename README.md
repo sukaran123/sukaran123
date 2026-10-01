@@ -2,281 +2,401 @@
 
 ### 💻 Full Stack Developer | MERN Stack Developer
 
-I’m a passionate **Full Stack Developer** focused on building modern, responsive, and scalable web applications using the **MERN Stack**.
+I’m a **Full Stack Developer specializing in the MERN Stack**, passionate about building modern, responsive, and scalable web applications.
 
-I enjoy turning ideas into functional products, learning new technologies, and continuously improving my development skills.
+I enjoy turning ideas into real-world products — from designing React interfaces and building REST APIs to database architecture, authentication, payments, and real-time applications.
 
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Science Engineering
-- 💻 Full Stack Developer specializing in **MERN Stack**
-- ⚛️ Passionate about **React.js & JavaScript**
-- 🌐 Interested in building scalable web applications
-- 🔐 Experienced with authentication, APIs and database integration
-- ☁️ Interested in deployment, DevOps and cloud technologies
-- 🤖 Exploring **AI, Machine Learning and Data Analytics**
-- 📚 Continuously learning and improving my technical skills
-
----
-
-## 🌐 My Portfolio
+Currently, I'm focused on strengthening my skills in **MERN Stack Development, Software Development, AI-Assisted Development, DevOps, and modern web technologies.**
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-Explore%20Now-111827?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://sukaran.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sukaran-singh-1a0163257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sukaransingh2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 About Me
 
-### Frontend
+🎓 **B.E. Computer Science & Engineering** graduate from Chitkara University, Punjab.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap" />
-</p>
+💻 Full Stack Developer with **1+ years of hands-on development experience**.
 
-### Backend
+⚛️ Specializing in **MERN Stack Development**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+🏗️ Experienced in building full-stack web applications from frontend to backend and database.
 
-### Database
+🎥 Worked with **real-time communication technologies** including WebRTC, WebSockets, and LiveKit Cloud.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+💳 Experienced with **Razorpay payment integration**.
 
-### Tools & Technologies
+🔐 Experienced with **JWT authentication and role-based access control**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,jenkins,vercel" />
-</p>
+🤖 Interested in **AI-Assisted Development** and modern AI coding tools.
+
+🌱 Currently exploring **Docker, Jenkins, CI/CD and DevOps workflows**.
 
 ---
 
 # 💼 Experience
 
-### Full Stack Web Development Intern
-**Bharat Intern**
+## 🚀 Full Stack Developer — Tech Mind Academy
 
-Virtual Internship — Full Stack Web Development
+**August 2025 – August 2026**
 
-Worked on web development concepts and gained hands-on experience with frontend and backend technologies.
+### Live EdTech Platform
 
-### Full Stack Web Development Intern
-**CodSoft**
+I independently designed, developed, and launched **Tech Mind Academy**, a live EdTech platform built using the MERN Stack.
 
-Virtual Internship — Full Stack Web Development
+### What I Worked On
 
-Worked on web development projects while strengthening JavaScript and full-stack development skills.
+- Developed the platform using **React.js, Node.js, Express.js and MongoDB**.
+- Built course management functionality.
+- Developed student enrollment workflows.
+- Developed instructor management functionality.
+- Implemented **JWT authentication**.
+- Implemented **role-based access control**.
+- Integrated real-time live classes using **WebRTC, WebSockets and LiveKit Cloud**.
+- Worked on real-time video communication between instructors and students.
+- Integrated **Razorpay Payment Gateway**.
+- Implemented payment order verification.
+- Worked with webhook-based payment confirmation.
+- Developed RESTful APIs using Node.js and Express.js.
+- Built course CRUD APIs and progress tracking.
+- Designed MongoDB schemas using Mongoose.
+- Built responsive React interfaces.
 
-### Training & Internship
-**White Hat Coders**
+### Tech Stack
 
-**August 2025 – February 2026**
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `WebRTC` `WebSockets` `LiveKit Cloud` `Razorpay`
 
-Completed training and internship focused on full-stack web development and practical software development.
+---
+
+## 💻 Full Stack Development Trainee & Intern — White Hat Coders
+
+**March 2025 – August 2025**
+
+Completed a full-time training and internship program focused on Full Stack Web Development.
+
+### What I Worked On
+
+- Built MERN Stack web applications.
+- Developed RESTful APIs using Node.js and Express.js.
+- Implemented JWT-based authentication.
+- Implemented role-based access control.
+- Developed CRUD operations.
+- Worked with MongoDB and Mongoose.
+- Built responsive React.js interfaces.
+- Used Redux Toolkit for state management.
+- Used Bootstrap 5 for responsive layouts.
+- Followed MVC architecture for backend development.
+- Used AI coding assistants for development, debugging and code review.
+
+### Tech Stack
+
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Bootstrap 5` `REST APIs` `MVC`
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" />
+</p>
+
+**JavaScript (ES6+) • Java • HTML5 • CSS3**
+
+---
+
+## Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,bootstrap" />
+</p>
+
+**React.js • Redux Toolkit • React Router DOM • Bootstrap 5 • Tailwind CSS • Material UI • Ant Design**
+
+---
+
+## Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Node.js • Express.js • REST APIs • JWT Authentication • MVC Architecture**
+
+---
+
+## Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+**MongoDB • Mongoose ODM • Database Schema Design**
+
+---
+
+## Real-Time & Payments
+
+**WebRTC • WebSockets • LiveKit Cloud • Razorpay Payment Gateway**
+
+---
+
+## Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+**Git • GitHub • VS Code • Postman • npm**
+
+---
+
+# 🤖 AI-Assisted Development
+
+I use AI tools as part of my development workflow to improve productivity and accelerate development.
+
+### Tools I Work With
+
+- **Claude / Claude Code**
+- **ChatGPT**
+- **Bolt**
+- **Lovable**
+- **Google Antigravity**
+
+### Use Cases
+
+- Code generation
+- Debugging
+- Prototyping
+- Boilerplate generation
+- Code review
+- Problem solving
+- Development assistance
+
+I use AI as a development assistant while reviewing, testing, understanding, and integrating the generated solutions into applications.
+
+---
+
+# 🧪 Currently Exploring
+
+These are technologies I'm currently learning and exploring rather than claiming production experience with them.
+
+### 🐳 Docker
+
+Learning containerization and understanding how applications can be packaged and deployed consistently across environments.
+
+### ⚙️ Jenkins
+
+Learning CI/CD concepts and exploring automated build, test, and deployment workflows.
+
+### ☁️ DevOps
+
+Exploring deployment automation, CI/CD pipelines, containerization, and modern development workflows.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 Preet Collection
-
-An e-commerce web application designed for online product browsing and purchasing.
-
-### Technologies
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-### Features
-- Product management
-- Shopping cart
-- Authentication
-- Product browsing
-- Responsive UI
-- Backend REST APIs
-
----
-
 ## 🎓 Tech Mind Academy
 
-An online learning platform designed to connect **students, creators and administrators**.
+### Live EdTech Platform
 
-### Technologies
-`React.js` `Node.js` `Express.js` `MongoDB`
+A full-stack EdTech platform for online learning, course management, student enrollment, instructor management, live classes, and payments.
 
-### Features
-- Student dashboard
-- Creator dashboard
-- Admin dashboard
+### Highlights
+
 - Course management
-- Course enrollment
-- Video learning
-- Assignments
-- Quizzes
-- Course progress
-- Certificates
-- Wishlist
-- Cart
-- Payment integration
-- Internship management
-
----
-
-## 🏥 Doctor Management System
-
-A web application designed to manage doctors, patients and healthcare-related information.
-
-### Technologies
-`React.js` `Node.js` `Express.js` `MongoDB`
-
----
-
-## 📝 Blog Management System
-
-A full-stack blog platform for creating, managing and publishing content.
-
-### Technologies
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-### Features
-- User authentication
-- Create posts
-- Edit posts
-- Delete posts
-- Blog management
+- Student enrollment
+- Instructor management
+- JWT authentication
+- Role-based access control
+- Real-time live classes
+- WebRTC
+- WebSockets
+- LiveKit Cloud
+- Razorpay payments
+- Payment verification
+- Webhook-based confirmation
+- Course progress tracking
 - REST APIs
+- Responsive UI
+
+### Built With
+
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `WebRTC` `WebSockets` `LiveKit Cloud` `Razorpay`
+
+🌐 **Live Website:** https://techmindacademy.in
 
 ---
 
-## 🗳️ Voting Management System
+# 🛒 Preet Collection
 
-A web-based voting management application designed to manage users and voting processes.
+### E-Commerce Platform
 
-### Technologies
-`React.js` `Node.js` `Express.js` `MongoDB`
+A full-stack e-commerce application with product management, authentication, shopping cart functionality, inventory management, and order processing.
 
----
+### Highlights
 
-# 📊 GitHub Statistics
+- JWT authentication
+- Authorization
+- Admin dashboard
+- Product management
+- Inventory management
+- Shopping cart
+- Order processing
+- REST APIs
+- Redux Toolkit
+- Responsive interface
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### Built With
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-# 🧠 Currently Learning
+# 🏥 Doctor Management System
+
+### MERN Stack Healthcare Application
+
+A healthcare management application designed for doctors and patients with appointment scheduling and profile management.
+
+### Highlights
+
+- Doctor dashboard
+- Patient dashboard
+- Appointment scheduling
+- Patient profiles
+- Doctor availability
+- JWT authentication
+- Protected routes
+- Role-based access
+- MongoDB data modeling
+
+### Built With
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+
+---
+
+# 📊 My Development Journey
 
 ```text
-JavaScript
-      ↓
-React.js
-      ↓
-Node.js + Express.js
-      ↓
-MongoDB
-      ↓
-Docker
-      ↓
-Jenkins / CI-CD
-      ↓
-Cloud & Deployment
-      ↓
-AI / Machine Learning
-```
-
-I'm continuously expanding my knowledge in:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Analytics
-- 🐳 Docker
-- ⚙️ Jenkins
-- ☁️ Cloud & DevOps
-- 🔐 Application Security
-
----
-
-# 🎯 Career Focus
-
-My current focus is becoming a strong **Full Stack / MERN Stack Developer** and building production-ready applications.
-
-I'm particularly interested in:
-
-- Full Stack Development
-- Software Development
-- React.js Development
-- Backend Development
-- REST API Development
-- Database Architecture
-- DevOps
-- AI-powered applications
-
----
-
-# 📚 What I Like Building
-
-```text
-🌐 Web Applications
-🛒 E-commerce Platforms
-🎓 Learning Management Systems
-📊 Management Dashboards
-🔐 Authentication Systems
-💳 Payment Integrations
-🤖 AI-powered Applications
-📱 Responsive Interfaces
+Computer Science Engineering
+            ↓
+      Web Development
+            ↓
+       JavaScript
+            ↓
+        React.js
+            ↓
+     MERN Stack
+            ↓
+ Full Stack Development
+            ↓
+ Production Applications
+            ↓
+ Real-Time Applications
+            ↓
+ AI-Assisted Development
+            ↓
+ DevOps & CI/CD
 ```
 
 ---
 
-# 📫 Connect With Me
+# 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can contribute as a:
+
+- **Software Developer**
+- **Full Stack Developer**
+- **MERN Stack Developer**
+- **React.js Developer**
+- **Backend Developer**
+
+I'm particularly interested in projects involving:
+
+`MERN Stack` `React.js` `Node.js` `REST APIs` `MongoDB` `Real-Time Applications` `AI-Assisted Development`
+
+---
+
+# 🎓 Education
+
+## Bachelor of Engineering — Computer Science & Engineering
+
+**Chitkara University, Punjab**
+
+**CGPA: 8.01 / 10.0**
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sukaran123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukaran123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sukaran123&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://sukaran.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-sukaran.netlify.app-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/sukaran123">
+<img src="https://img.shields.io/badge/GitHub-sukaran123-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/sukaran-singh-1a0163257/">
-<img src="https://img.shields.io/badge/LinkedIn-Sukaran%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sukaran%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sukaransingh2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-sukaransingh2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Developer Quote
+# 💡 Developer Philosophy
 
-> "Build. Learn. Improve. Repeat."
+> **Build. Learn. Improve. Repeat.**
+
+I believe the best way to grow as a developer is to continuously build real projects, understand the technology behind them, learn from challenges, and keep improving.
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! 🚀</b>
-</p>
+# ⭐ Thanks for Visiting!
+
+I'm always interested in learning, building, and connecting with other developers.
+
+**If you find my projects interesting, feel free to explore my repositories and connect with me.**
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and projects.
+
+### 🚀 Let's build something meaningful together.
+
 </p>
